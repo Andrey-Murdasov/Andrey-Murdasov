@@ -15,9 +15,7 @@
 1. Классификатор ISSP
 Интерактивный диагностический инструмент для проверки состояний галактик на зависимость от Темной Материи.
 Ввод: два параметра → мгновенный класс (Самодостаточность / Баланс / Зависимость).
-→ [Запустить классификатор](https://604645b2-issp-tool.matematikaokai.workers.dev/)
-
-<a href="https://604645b2-issp-tool.matematikaokai.workers.dev/" target="_blank">Запустить классификатор</a>
+→ <a href="https://604645b2-issp-tool.matematikaokai.workers.dev/" target="_blank">Запустить классификатор</a>
 
 ## 📫 Связь:
 - Telegram: @Murdasov_a
