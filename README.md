@@ -27,9 +27,14 @@
    Все работы зарегистрированы в Zenodo с присвоением DOI.   
    👉 [andrey-murdasov.github.io/murdasov-research](https://andrey-murdasov.github.io/murdasov-research/) 
 
-4. **Telegram-бот для автоматизации заявок**   
+4. **Telegram-бот для автоматизации заявок**
    Приём заявок на инженерные услуги, структурирование запросов, интеграция с бизнес-процессами.   
    👉 [@murdasov_bot](https://t.me/murdasov_bot) 
+
+5. **🔎 Погодные аномалии — ETL + анализ (проект)**
+Полный пайплайн: извлечение данных из Open-Meteo API → загрузка в PostgreSQL → SQL-анализ (агрегация, Z-оценка) → визуализация Plotly.
+Найдены аномалии температуры, ветра и давления за июнь–июль 2026 в Сочи. Оформлено как исследовательский кейс с выводами и графиками.
+👉 [Репозиторий проекта](https://github.com/Andrey-Murdasov/weather_anomaly_analysis_sochi)
 
 ## 📫 Связь:
 - Telegram: @Murdasov_a
