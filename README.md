@@ -35,6 +35,12 @@
    Полный пайплайн: извлечение данных из Open-Meteo API → загрузка в PostgreSQL → SQL-анализ (агрегация, Z-оценка) → визуализация Plotly. Найдены аномалии температуры, ветра и давления за июнь–июль 2026 в Сочи. Оформлено как исследовательский кейс с выводами и графиками.  
    👉 [Репозиторий проекта](https://github.com/Andrey-Murdasov/weather_anomaly_analysis_sochi)
 
+6. **asset-monitoring-dashboard**
+   Интерактивный дашборд для мониторинга состояния объектов с динамикой и детализацией.  
+   Стек: Python, Streamlit, Plotly, Pandas.  
+   👉 [Демо-версия (Streamlit)](https://asset-monitoring-dashboard-a2pm7bhh7eneiduhkhxhsk.streamlit.app/#panel-monitoringa-sostoyaniya-obyektov)  
+   [Репозиторий (код по запросу)](https://github.com/Andrey-Murdasov/asset-monitoring-dashboard)
+
 ## 📫 Связь:
 - Telegram: @Murdasov_a
 - Email: matematikaokai@gmail.com
