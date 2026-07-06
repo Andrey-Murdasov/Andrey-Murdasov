@@ -44,7 +44,7 @@
 ## 📫 Связь и сотрудничество:
    По всем вопросам — пишите в Telegram или на почту.  
    ТЗ, сроки и формат работы индивидуально.
-- Telegram: @Murdasov_a
+- Telegram: @Murdasov_bot
 - Email: matematikaokai@gmail.com
 
 
