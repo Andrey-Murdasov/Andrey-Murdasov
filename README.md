@@ -41,7 +41,9 @@
    👉 [Демо-версия (Streamlit)](https://asset-monitoring-dashboard-a2pm7bhh7eneiduhkhxhsk.streamlit.app/#panel-monitoringa-sostoyaniya-obyektov)  
    [Репозиторий (код по запросу)](https://github.com/Andrey-Murdasov/asset-monitoring-dashboard)
 
-## 📫 Связь:
+## 📫 Связь и сотрудничество:
+   По всем вопросам — пишите в Telegram или на почту.  
+   ТЗ, сроки и формат работы индивидуально.
 - Telegram: @Murdasov_a
 - Email: matematikaokai@gmail.com
 
