@@ -38,7 +38,7 @@
 6. **asset-monitoring-dashboard**
    Интерактивный дашборд для мониторинга состояния объектов с динамикой и детализацией.  
    Стек: Python, Streamlit, Plotly, Pandas.  
-   👉 [Демо-версия (Streamlit)](https://asset-monitoring-dashboard-a2pm7bhh7eneiduhkhxhsk.streamlit.app/#panel-monitoringa-sostoyaniya-obyektov)  
+   👉 [Демо-версия (Streamlit)](https://asset-monitoring-dashboard-inye9ghggzymbvjkkyhkiv.streamlit.app/)  
    [Репозиторий (код по запросу)](https://github.com/Andrey-Murdasov/asset-monitoring-dashboard)
 
 ## 📫 Связь и сотрудничество:
