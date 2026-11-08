@@ -54,7 +54,7 @@
    ТЗ, сроки и формат работы индивидуально.  
      
 - [Резюме на HH.ru](https://sochi.hh.ru/resume/27dbf88bff0c6fd37e0039ed1f41656f774132)  
-- Telegram: @Murdasov_bot
+- Telegram: [@murdasov_bot](https://telegram.me)
 - Email: matematikaokai@gmail.com
 
 
